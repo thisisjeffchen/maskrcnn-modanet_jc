@@ -1,0 +1,9 @@
+numpy
+scipy
+tensorflow-gpu==1.13.1
+tqdm
+nltk
+Cython
+pycocotools
+keras==2.2.4
+scikit-image
